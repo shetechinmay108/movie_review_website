@@ -1,5 +1,5 @@
 var swiper = new Swiper(".mySwiper", {
-    spaceBetween: 30,
+    spaceBetween: 0,
     centeredSlides: true,
     autoplay: {
       delay: 3500,
@@ -15,5 +15,12 @@ var swiper = new Swiper(".mySwiper", {
       prevEl: ".swiper-button-prev",
     },
   });
+  const locoScroll = new LocomotiveScroll({
+    el: document.querySelector(".main"),
+    smooth: true,
+  });
 
+  function animal(){
+    window.location.href="../movie/animal.php"
+  }
   

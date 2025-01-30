@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/styles.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css" />
 </head>
 <body>
     <div class="main">
@@ -13,8 +14,7 @@
             <div class="nav">
                 <h3>start-x</h3>
                 <div class="nav-part1">
-                    <h3>sign-in</h3>
-                    <h3>sign-up</h3>
+                    <h3><a href="../index.php?logout=true">Logout</a></h3>
                 </div>
             </div>
             <div class="page1-part1">
@@ -80,9 +80,9 @@
             <div class="box">
                 <div class="child">
                     <div class="child1">
-                        <img src="../img/animal.jpg" alt="">
+                        <img onclick="animal()" src="../img/animal.jpg" alt="">
                     </div>
-                    <h3>animal</h3>
+                    <h3><a href="../movie/animal.php">animal</a></h3>
                     <p>1 dec 2023</p>
                 </div>
                 <div class="child">
@@ -212,6 +212,8 @@
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
     <script src="script.js"></script>
+    
 </body>
 </html>
