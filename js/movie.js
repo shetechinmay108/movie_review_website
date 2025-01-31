@@ -10,7 +10,4 @@ const locoScroll = new LocomotiveScroll({
 // let animal = ()=>{
 //   window.location.href="../movie/animal.php"
 // }
-
-function animal(){
-  window.location.href="../movie/animal.php"
-}
+ 

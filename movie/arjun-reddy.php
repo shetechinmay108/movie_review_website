@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -82,7 +83,7 @@
                 </div>
             </div>
                 <div class="page1-part3">
-                <h1>animal review</h1>
+                <h1>arjun-reddy review</h1>
                 <div class="part3">
                     <p>*Arjun Reddy* follows the story of a hot-headed medical student, Arjun (Vijay Deverakonda), whose life spirals out of control after his love, Preeti (Shalini Pandey), is forced away from him. Initially a confident and passionate young man, Arjun becomes a self-destructive alcoholic and drug user. The film explores his reckless behavior as a form of escape from heartbreak, challenging societal norms with his "I-don’t-care" attitude. Vijay Deverakonda delivers a powerful, raw performance, making Arjun a complex, loveable, and feared character. Preeti transforms from a timid student into a strong woman, while Arjun’s friend Shiva offers a sense of light in his dark world. Despite a drag in the second half, the film’s realistic writing, strong performances, and memorable music mark *Arjun Reddy* as a groundbreaking film for the Telugu industry.</p>
                 </div>
